@@ -2,9 +2,9 @@
 
 ## ubuntu
  - mkdir
-  - makes a directory 
+  -- makes a directory 
  - rmdir
-  - removes a directory
+  -- removes a directory
  - nano/pico
   - edits a file
  - touch
