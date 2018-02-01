@@ -6,28 +6,28 @@
  - rmdir
    - removes a directory
  - nano/pico
-  - edits a file
+   - edits a file
  - touch
-  - creates a file
+   - creates a file
  - cat
-  - displays the words in a file
+   - displays the words in a file
  - cd
-  - navigates to a folder
+   - navigates to a folder
  - cd ~
-  - navigates you home
+   - navigates you home
  - cd .. 
-  - navigates you up a folder
+   - navigates you up a folder
  - rm
-  - deletes a file
+   - deletes a file
 
 ## git
  - git clone 
-  - establishes a connection to a github repository and downloads it to ubuntu
+   - establishes a connection to a github repository and downloads it to ubuntu
  - git add .
-  - tells you which file will be commit (the . means all of them)
+   - tells you which file will be commit (the . means all of them)
  - git commit -m "type your message"
-  - creates a version of all of your files under a message
+   - creates a version of all of your files under a message
  - git pull
-  - updates your repository bringing in any commits from anyone else
+   - updates your repository bringing in any commits from anyone else
  - git push
-  - sends all your commits to github
+   - sends all your commits to github
